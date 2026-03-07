@@ -8,10 +8,34 @@
 
 ---
 
+### Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,arduino,git" />
+</p>
+
+---
+
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mertwasslaa&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mertwasslaa&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertwasslaa&layout=compact&theme=dark" />
+</p>
+
+---
+
+### Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mertwasslaa&color=blue" />
 </p>
 
 ---
