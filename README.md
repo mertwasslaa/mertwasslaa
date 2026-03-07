@@ -20,24 +20,24 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertwasslaa&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="Mert's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertwasslaa&layout=compact&theme=dark&hide_border=true&bg_color=121212" alt="Top Langs" width="43%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertwasslaa&theme=dark&hide_border=true&background=121212" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertwasslaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertwasslaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="43%" />
 </p>
 
 ---
 
-### 🎵 Currently Listening
+### 🎵 Currently Playing
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=mertwasslaa&cover_image=true&theme=dark&show_offline=true&background_color=0d1117" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://instagram.com/merttwass_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mert" height="30" width="40" /></a>
+### 📸 Connect with me
+<p align="center">
+<a href="https://instagram.com/merttwass_" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="merttwass_" />
+</a>
 </p>
